@@ -21,6 +21,7 @@ Expected Completion Date: June/July 2024
 - SQL and PostgreSQL
 - Intermediate Flask
 
+#### Additionally:
 - Node and Express Fundamentals
 - Building Full Stack Applications with Node and Express
 
