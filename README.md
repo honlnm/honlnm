@@ -6,7 +6,7 @@ My name is Nicole. I am a results-driven professional with a diverse background 
 
 This course covers key aspects of front-end web development, back-end web development, databases, and data structures and algorithms.
 
-Expected Completion Date: June/July 2024
+Completion Date: July 2024
 
 #### Front End
 - Web Development Fundamentals
