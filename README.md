@@ -1,30 +1,42 @@
-### Hi there 👋
-My name is Nicole. I am a results-driven professional with a diverse background as a senior accountant and financial analyst, now exploring new horizons in software engineering. Seamlessly transitioning into this dynamic field, I bring a unique blend of financial acumen and technical skills. My holistic perspective on problem-solving and innovation extends beyond just the financial industry, making me well-equipped to contribute to a wide range of projects. Proficient in full-stack development, I thrive on challenges and excel in adapting my skills to various domains. I am also eager to embrace new opportunities and contribute my analytical mindset and coding expertise to drive innovation and excellence across industries.
+# Hi, I'm Nicole 👋
 
-#### 🔭 I’m currently a software/data engineer II with Datasite.
+I'm a Software Engineer II specializing in data engineering and large-scale ETL pipelines.
 
-I obtained my software engineering certificate from Springboard in an 800+ hour course that imbued me with the skills listed below:
-This course covers key aspects of front-end web development, back-end web development, databases, and data structures and algorithms.
+I enjoy untangling complex data problems—taking messy, disconnected systems and turning them into reliable, maintainable pipelines. Whether it's orchestrating workflows, migrating data between platforms, or designing scalable ETL processes, I enjoy building solutions that make data trustworthy and useful.
 
-Completion Date: July 2024
+## 🛠️ Technologies
 
-#### Front End
-- Web Development Fundamentals
-- Intermediate JavaScript, DOM Manipulation, and Event Driven Programming
-- Developer Fundamentals (Git/Terminal/Github)
-- Modern JavaScript and Testing
-- How the Web Works, AJAX, and jQuery
+- 🐍 Python
+- 🌬️ Apache Airflow
+- ❄️ Snowflake
+- 🍃 MongoDB
+- 🐘 PostgreSQL
+- ☁️ Google Cloud Platform (GCP)
+- ☁️ Microsoft Azure
+- ☸️ Kubernetes
 
-#### Back End with Python, Flask, SQL
-- Python Fundamentals
-- Flask Fundamentals
-- SQL and PostgreSQL
-- Intermediate Flask
+## 🚀 Areas of Experience
 
-#### Additionally:
-- Node and Express Fundamentals
-- Building Full Stack Applications with Node and Express
+- ETL & ELT pipeline development
+- Workflow orchestration with Apache Airflow
+- Large-scale data migrations
+- Data validation and transformation
+- Cloud-based data platforms
+- AI enablement initiatives
+- Cross-functional engineering collaboration
 
-- ReactJS
-- Redux
-- Data Structures and Algorithms
+## 🌱 What I'm Exploring
+
+I'm always interested in learning more about:
+
+- Data architecture
+- Distributed data systems
+- Workflow orchestration
+- AI applications in data engineering
+- Building practical data-focused side projects
+
+---
+
+> *"Clean pipelines. Reliable data. Continuous learning."*
+
+Thanks for stopping by! Feel free to explore my repositories or connect with me.
